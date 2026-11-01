@@ -13,8 +13,9 @@
 | 文件 | 说明 |
 | --- | --- |
 | [PLAN.md](./PLAN.md) | **产品与运营计划（SSOT）**：五步路线、团队角色、视觉规范、营销排期、红线 |
+| [short-video/](./short-video/) | **2026-11-01 成片归档**：八条 release_r2、EP0 r6 可播刀、风格定稿、本地指南与当日总结 |
 
-成片与流水线工作文件当前在短视频工作区（`short-video/`），不强制进本仓；以 `PLAN.md` 为准对齐协作。
+成片精选包见 [`short-video/README.md`](./short-video/README.md)；入口文档：[`今日进展总结-2026-11-01.md`](./short-video/今日进展总结-2026-11-01.md)、[`style-reference/`](./short-video/style-reference/)。以 `PLAN.md` 为产品 SSOT。
 
 ## 五步一览
 

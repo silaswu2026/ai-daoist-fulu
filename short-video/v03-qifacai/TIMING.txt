@@ -1,0 +1,13 @@
+planned_total_vo_plus_cta=21.046
+delivered_duration=21.033
+vo_end=19.546
+cta=1.500
+cta_silence_measured=1.500
+mid_cut=9.840
+gap_planned=0.350
+measured_max_gap=0.352
+interseg_gaps=0.350,0.350,0.352,0.350,0.350
+lead=0.250
+hook_dur=2.867
+silenceremove=head+tail_via_areverse_then_insert_gap
+HOOK_SPLICE=HOOK_SPLICE@after_lead: replace/extend hook VO+bar only; four beats locked.

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "v02-qishiye",
+    "path": "/workspace/short-video/v02-qishiye/v02-qishiye_review_r3.mp4",
+    "duration": 26.7,
+    "vo_end": 25.218,
+    "cta": 1.5,
+    "mid_cut": 12.54,
+    "gaps": 0.35,
+    "lead": 0.25,
+    "starts": [
+      0.25,
+      4.344,
+      7.718,
+      12.94,
+      17.178
+    ],
+    "durs": [
+      3.744,
+      3.024,
+      4.872,
+      3.888,
+      8.04
+    ],
+    "splice_note": "HOOK_SPLICE@after_lead: replace/extend hook VO+bar only; four beats locked.",
+    "review_tag": "r3",
+    "size": 46839860
+  },
+  {
+    "id": "v03-qifacai",
+    "path": "/workspace/short-video/v03-qifacai/v03-qifacai_review_r2.mp4",
+    "duration": 27.1,
+    "vo_end": 25.626,
+    "cta": 1.5,
+    "mid_cut": 13.044,
+    "gaps": 0.35,
+    "lead": 0.25,
+    "starts": [
+      0.25,
+      4.488,
+      8.006,
+      13.444,
+      17.898
+    ],
+    "durs": [
+      3.888,
+      3.168,
+      5.088,
+      4.104,
+      7.728
+    ],
+    "splice_note": "HOOK_SPLICE@after_lead: replace/extend hook VO+bar only; four beats locked.",
+    "review_tag": "r2",
+    "size": 72751072
+  },
+  {
+    "id": "v04-shenti-pingan",
+    "path": "/workspace/short-video/v04-shenti-pingan/v04-shenti-pingan_review_r2.mp4",
+    "duration": 26.833,
+    "vo_end": 25.338,
+    "cta": 1.5,
+    "mid_cut": 13.116,
+    "gaps": 0.35,
+    "lead": 0.25,
+    "starts": [
+      0.25,
+      4.584,
+      8.03,
+      13.516,
+      17.754
+    ],
+    "durs": [
+      3.984,
+      3.096,
+      5.136,
+      3.888,
+      7.584
+    ],
+    "splice_note": "HOOK_SPLICE@after_lead: replace/extend hook VO+bar only; four beats locked.",
+    "review_tag": "r2",
+    "size": 80128726
+  },
+  {
+    "id": "v05-hufumu",
+    "path": "/workspace/short-video/v05-hufumu/v05-hufumu_review_r2.mp4",
+    "duration": 28.267,
+    "vo_end": 26.778,
+    "cta": 1.5,
+    "mid_cut": 14.316,
+    "gaps": 0.35,
+    "lead": 0.25,
+    "starts": [
+      0.25,
+      5.976,
+      9.326,
+      14.716,
+      19.074
+    ],
+    "durs": [
+      5.376,
+      3.0,
+      5.04,
+      4.008,
+      7.704
+    ],
+    "splice_note": "HOOK_SPLICE@after_lead: replace/extend hook VO+bar only; four beats locked.",
+    "review_tag": "r2",
+    "size": 81233161
+  }
+]

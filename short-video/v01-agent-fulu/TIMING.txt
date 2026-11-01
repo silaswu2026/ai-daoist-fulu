@@ -1,0 +1,19 @@
+review_r6 silence-pack (split on ？！。、)
+lead=0.250 gap=0.350 CTA=1.500
+clauses=6
+c00 start=0.250 dur=2.009 end=2.259 | 我突然就悟了——神仙就是模型！
+c01 start=2.609 dur=2.954 end=5.563 | 上头那截叫「请神」——说白了，请大模型上桌。
+c02 start=5.913 dur=3.592 end=9.505 | 中间写的「欲望」——不就是你丢进对话框的提示词吗？
+c03 start=9.855 dur=3.109 end=12.964 | 底下「执行效果」——工具跑完，吐出最终输出。
+c04 start=13.314 dur=1.803 end=15.117 | 所以啊，符≈AI。
+c05 start=15.467 dur=3.098 end=18.565 | 想自己生成一张——链接见主页／评论置顶。
+VO_END=18.565
+CTA_START=18.565 CTA_DUR=1.500 CTA_END=20.065
+TOTAL≈20.067
+mid_cut=6.800 (符面≤10.0)
+hook_dur=2.009
+measured_max_mid_silence=0.352
+measured_cta_silence=1.497
+silenceremove=head+tail_areverse
+gate=silencedetect_-35dB_d0.35_no_mid_>0.40_except_CTA
+encode=H.264_Baseline_g30_bf0_faststart

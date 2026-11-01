@@ -1,0 +1,14 @@
+review_r4 clause-split silence pack
+lead=0.250 gap=0.350 CTA=1.500
+hook start=0.250 dur=2.422 end=2.672
+① start=3.022 dur=1.906
+② start=5.278 dur=4.059
+③ start=9.687 dur=2.288
+④ start=12.324 dur=5.730
+VO_END=18.054
+CTA_START=18.054 CTA_DUR=1.500 CTA_END=19.554
+TOTAL≈19.567
+mid_cut=9.287
+clauses=8
+gate=silencedetect noise=-35dB:d=0.35 → no mid >0.40 except CTA
+silence_list=[{"start": 2.67, "end": 3.022, "dur": 0.352}, {"start": 4.927, "end": 5.278, "dur": 0.35}, {"start": 9.336, "end": 9.687, "dur": 0.35}, {"start": 10.733, "end": 11.083, "dur": 0.35}, {"start": 11.263, "end": 11.613, "dur": 0.35}, {"start": 11.974, "end": 12.324, "dur": 0.35}, {"start": 14.247, "end": 14.598, "dur": 0.35}, {"start": 18.054, "end": 19.551, "dur": 1.497}]

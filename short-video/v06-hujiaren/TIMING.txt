@@ -1,0 +1,10 @@
+review_r2 timing (silenceremove+gap0.25)
+lead=0.250 gap=0.250 CTA=1.500
+hook 0.250/2.240
+① 2.740/1.421
+② 4.411/3.333
+③ 7.994/2.160
+④ 10.405/5.136
+VO_END=15.541 CTA=1.500 TOTAL≈17.041
+MID_CUT=7.594
+HOOK_SPLICE@after_lead: replace/extend hook VO+bar only; four beats locked.

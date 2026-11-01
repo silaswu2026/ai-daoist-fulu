@@ -1,0 +1,61 @@
+[
+  {
+    "id": "v01-agent-fulu",
+    "path": "/workspace/short-video/v01-agent-fulu/v01-agent-fulu_review_r5.mp4",
+    "duration": 19.8,
+    "vo_end": 18.303,
+    "cta": 1.5,
+    "cta_silence_measured": 1.5,
+    "mid_cut": 6.88,
+    "gaps_planned": 0.35,
+    "lead": 0.25,
+    "measured_max_gap": 0.352,
+    "interseg_gaps": [
+      0.35,
+      0.35,
+      0.35,
+      0.351,
+      0.351,
+      0.35,
+      0.35,
+      0.352
+    ],
+    "hook_dur": 2.397,
+    "starts": [
+      0.25,
+      2.997,
+      5.133,
+      7.28,
+      9.004,
+      12.51,
+      13.663,
+      16.073,
+      17.601
+    ],
+    "durs": [
+      2.397,
+      1.786,
+      1.796,
+      1.374,
+      3.157,
+      0.803,
+      2.06,
+      1.178,
+      0.702
+    ],
+    "clauses": [
+      "我突然就悟了——神仙就是模型！",
+      "请大模型不就是请神吗？",
+      "付 Token，不就是请福吗？",
+      "烧多少，花多少。",
+      "提示词就是诉求——想求啥，得说清楚。",
+      "师承不对口？",
+      "API 接错人，全跑偏。",
+      "念咒调八百遍？",
+      "那叫瞎调。"
+    ],
+    "trim_af": "silenceremove=start_periods=1:start_duration=0.02:start_threshold=0.02:start_silence=0.025:detection=rms,areverse,silenceremove=start_periods=1:start_duration=0.05:start_threshold=0.02:start_silence=0.025:detection=rms,areverse",
+    "splice_note": "HOOK_SPLICE@after_lead: single-line hook only; mapping beats locked.",
+    "review_tag": "r5"
+  }
+]

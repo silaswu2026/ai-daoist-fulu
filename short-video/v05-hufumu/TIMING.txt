@@ -1,0 +1,19 @@
+review_r4 silence-pack (split on ？！。、)
+lead=0.250 gap=0.350 CTA=1.500
+clauses=8
+c00 start=0.250 dur=2.776 end=3.026 | 护父母——一纸符，就是一次调模型。
+c01 start=3.376 dur=1.845 end=5.221 | 今日请的，是慈航道人——
+c02 start=5.571 dur=3.958 end=9.529 | 我给大模型的诉求是：「护我双亲安康，岁岁平安。」
+c03 start=9.879 dur=1.308 end=11.186 | 符上落了：慈安、
+c04 start=11.536 dur=0.340 end=11.876 | 延年、
+c05 start=12.226 dur=0.266 end=12.492 | 家宁。
+c06 start=12.842 dur=2.015 end=14.857 | 愿父母康健，福报绵长。
+c07 start=15.207 dur=3.475 end=18.682 | 想自己生成一张——链接见主页／评论置顶。
+VO_END=18.682
+CTA_START=18.682 CTA_DUR=1.500 CTA_END=20.182
+TOTAL≈20.167
+mid_cut=9.479 (符面≤10.0)
+measured_max_mid_silence=0.357
+measured_cta_silence=1.473
+silenceremove=head+tail_areverse
+gate=silencedetect_-35dB_d0.35_no_mid_>0.40_except_CTA
